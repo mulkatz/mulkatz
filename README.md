@@ -1,7 +1,8 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Franjoo">Franz</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. I am working on some side projects, learning a couple new things, and trying to understand the world everday a little bit better.</p>
 
-<h2>🚀 Some Tools I Use</h2>
+#
+<h3>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
@@ -30,15 +31,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
-### What's new?
+#
 
-- 🔭 I’m currently working on __my first flutter app__
-- 🌱 I’m currently learning to __get certified as google cloud architect__
-- 👯 I’m looking to collaborate on __something that brings people together__
-- 💬 Ask me about __mobile app or libgdx game development__
-- 📫 How to reach me: __[twitter@mulkatz](https://twitter.com/mulkatz)__
-- ⚡ Fun fact: ‘There are only two hard things in Computer Science: cache invalidation and naming things.’ - Phil Karlton
+<h3>⚡️ What's new?</h2>
+<div>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/Franjoo">my first flutter app</a>.</li>
+<li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a>.</li>
+<li>👨‍💻 Since I work for a software agency most of the projects I am contributing to are not open source</li>
+<li>📝 I’m looking to collaborate on <b>something that brings people together</b></li>
+<li>💬 Ask me about <strong>mobile app or libgdx game development</strong>.</li>
+<li>📫 How to reach me: <a href="[https://cloud.google.com/certification/cloud-architect](https://twitter.com/mulkatz)">twitter@mulkatz</a>._</li>
+</ul>
+</div>
 
+‘There are only two hard things in Computer Science: cache invalidation and naming things.’ - Phil Karlton<
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
