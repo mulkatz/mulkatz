@@ -10,7 +10,7 @@
 <table>
 <thead>
   <tr>
-    <th></th>
+    <th>▾</th>
     <th>Language</th>
     <th>Experience</th>
     <th></th>
