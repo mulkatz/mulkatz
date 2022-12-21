@@ -28,7 +28,7 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" /></td>
     <td>CSS</td>
-    <td></td>
+    <td>●●●●○</td>
     <td></td>
     <td></td>
   </tr>
