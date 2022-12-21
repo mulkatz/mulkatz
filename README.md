@@ -1,7 +1,11 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Franjoo">Franz</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. I am working on some side projects, learning a couple new things, and trying to understand the world everday a little bit better.</p>
+<div>
+<img align="right" width=200 src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="left">I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. <br>I am working on some side projects, learning a couple new things, and trying to understand<br> the world everday a little bit better.</p>
+</div>
 
 #
+
 <h3>🚀 → Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -18,7 +22,6 @@
 
 <h3>⚡️ →  What's new?</h3>
 <div>
-<img align="right" width=200 src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Franjoo">my first flutter app</a>.</li>
 <li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a>.</li>
