@@ -14,7 +14,7 @@
     <tr>
       <th>▾</th>
       <th>Language</th>
-      <th>Learned in</th>
+      <th>Learned</th>
       <th>Experience</th>
       <th>Thoughts on it</th>
     </tr>
@@ -51,7 +51,7 @@
       <td>Kotlin</td>
       <td>2017</td>
       <td>●●●●○</td>
-      <td>Still my favourite language because of its clarity and eloquence - Kotlin ❤️</td>
+      <td>Still my favourite language because of its clarity and eloquence</td>
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
