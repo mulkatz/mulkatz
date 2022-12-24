@@ -15,8 +15,8 @@
     <th>▾</th>
     <th>Language</th>
     <th>Experience</th>
-    <th></th>
-    <th></th>
+    <th>Learned</th>
+    <th>Thoughts on it</th>
   </tr>
 </thead>
 <tbody>
@@ -24,56 +24,56 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="dart" width="25" height="25" /></td>
     <td>HTML</td>
     <td>●●◐○○</td>
-    <td></td>
+    <td>2014</td>
     <td></td>
 </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" /></td>
     <td>CSS</td>
     <td>●●●●○</td>
-    <td></td>
+    <td>2014</td>
     <td></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" /></td>
     <td>Javascript</td>
-    <td></td>
-    <td></td>
+    <td>●●●●○</td>
+    <td>2014</td>
     <td></td>
   </tr>
 <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /></td>
     <td>Typescript</td>
-    <td></td>
-    <td></td>
+    <td>●●●●○</td>
+    <td>2018</td>
     <td></td>
   </tr>
 <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="java" width="25" height="25" /> </td>
     <td>Java</td>
-    <td></td>
-    <td></td>
+    <td>●●●●○</td>
+    <td>2013</td>
     <td></td>
   </tr>
 <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="25" height="25" /></td>
     <td>Kotlin</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>●●●●○</td>
+    <td>2018</td>
+    <td>Still my favourite language because of its clarity and eloquence - Kotlin ❤️</td>
   </tr>
 <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="25" height="25" /></td>
     <td>Swift</td>
-    <td></td>
-    <td></td>
+    <td>●●●●○</td>
+    <td>2019</td>
     <td></td>
   </tr>
 <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="25" height="25" /></td>
     <td>Dart</td>
-    <td></td>
-    <td></td>
+    <td>●●●●○</td>
+    <td>2022</td>
     <td></td>
   </tr>
 </tbody>
