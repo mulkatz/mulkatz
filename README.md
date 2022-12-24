@@ -6,7 +6,7 @@
 <p align="left">I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. <br>I am working on some side projects, learning a couple new things, and trying to understand<br> the world everday a little bit better.</p>
 </div>
 
-#
+# 
 
 <h2>Languages</h2>
 <table>
