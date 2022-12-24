@@ -14,8 +14,8 @@
     <tr>
       <th>▾</th>
       <th>Language</th>
+      <th>Learned in</th>
       <th>Experience</th>
-      <th>Learned</th>
       <th>Thoughts on it</th>
     </tr>
     </thead>
