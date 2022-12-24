@@ -76,6 +76,13 @@
     <td>2022</td>
     <td></td>
   </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" /></td>
+    <td>Bash</td>
+    <td>●●○○○</td>
+    <td>2016</td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
 
