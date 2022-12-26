@@ -1,4 +1,4 @@
-❗️ WIP ❗️
+❗️ WIP ❗️. 
 
 <h2>Hey 👋, I'm <a href="https://github.com/Franjoo">Franz</a></h2>
 <div>
