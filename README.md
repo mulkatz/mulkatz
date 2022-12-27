@@ -32,7 +32,7 @@
       <td>Swift</td>
       <td>2019</td>
       <td>●●◐○○</td>
-      <td>"Swift" is actually a reference to the speed at which you'll need to update your code whenever a new version of the language is released</td>
+      <td>Swift is actually a reference to the speed at which you'll need to update your code whenever a new version of the language is released</td>
     </tr>
     <tr>
       <td><img
@@ -91,7 +91,7 @@
       <td>Javascript</td>
       <td>2014</td>
       <td>●●●○○</td>
-      <td></td>
+      <td><code>[] == ![] // -> true</code></td>
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg"
@@ -99,7 +99,7 @@
       <td>Java</td>
       <td>2013</td>
       <td>●●○○○</td>
-      <td></td>
+      <td>even though it is the first programming language I learned, I don't have too positive feelings for it anymore - too much typing work.</td>
     </tr>
     </tbody>
   </table>
