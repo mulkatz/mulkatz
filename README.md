@@ -26,7 +26,7 @@
       <td>Dart</td>
       <td>2022</td>
       <td>●○○○○</td>
-      <td></td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
@@ -34,7 +34,7 @@
       <td>Swift</td>
       <td>2019</td>
       <td>●●◐○○</td>
-      <td></td>
+      <td>"Swift" is actually a reference to the speed at which you'll need to update your code whenever a new version of the language is released</td>
     </tr>
     <tr>
       <td><img
