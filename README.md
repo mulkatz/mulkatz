@@ -13,7 +13,7 @@
 
 ---
 
-<h2>Languages</h2>
+<h2>💬 Languages</h2>
 <table>
     <thead>
     <tr>
@@ -112,7 +112,7 @@
   </table>
 
 
-<h2>Tools & Frameworks</h2>
+<h2>🔧 Tools & Frameworks</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
@@ -122,7 +122,7 @@
 
 #
 
-<h2>What's going on?</h3>
+<h2>🦉 What's going on?</h3>
 <div>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Franjoo">my first flutter app</a>.</li>
