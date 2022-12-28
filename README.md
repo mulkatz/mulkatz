@@ -12,6 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #
 
+---
+
 <h2>Languages</h2>
 <table>
     <thead>
