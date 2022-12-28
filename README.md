@@ -120,6 +120,7 @@
       <th>Tool / Framework</th>
       <th>In how many projects used</th>
       <th>Experience</th>
+      <th>Thoughts on it</th>
     </tr>
     </thead>
     <tbody>
@@ -129,6 +130,7 @@
       <td>React</td>
       <td>9+</td>
       <td>●○○○○</td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
     </tr>
     </tbody>
   </table>
