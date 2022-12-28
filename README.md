@@ -4,7 +4,6 @@
 <p> </p>
 
 <div>
-<h2>About me</h3>
 <img align="left" width=200 src="profile.png" />
 <p align="left">I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. <br>I am working on some side projects, learning a couple new things, and trying to understand<br> the world everday a little bit better.
 
