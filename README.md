@@ -1,7 +1,6 @@
 <img src="header.png" />
 
 ---
-<p> </p>
 
 <div>
 <img align="left" width=200 src="profile.png" />
@@ -11,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 </div>
 
-#
+---
 
 <h2>Languages</h2>
 <table>
