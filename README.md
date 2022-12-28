@@ -13,12 +13,6 @@
 
 ---
 
-<h2>🎓 Certificates</h2>
-<div>
-<img src="psm-i.svg" alt="swift" height="200"/>
-<img src="pspo-i.svg" alt="swift" height="200"/>
-</div>
-
 <h2>💬 Languages</h2>
 <table>
     <thead>
@@ -119,6 +113,32 @@
 
 
 <h2>🔧 Tools & Frameworks</h2>
+<table>
+    <thead>
+    <tr>
+      <th>▾</th>
+      <th>Tool / Framework</th>
+      <th>In how many projects used</th>
+      <th>Experience</th>
+      <th>Thoughts on it</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+               alt="dart" width="25" height="25"/></td>
+      <td>React</td>
+      <td>9+</td>
+      <td>●○○○○</td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
+    </tr>
+    </tbody>
+  </table>
+
+
+
+
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
