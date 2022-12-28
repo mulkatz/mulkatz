@@ -11,20 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 </div>
 
-# 
-
-<h2>What's going on?</h3>
-<div>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Franjoo">my first flutter app</a>.</li>
-<li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a>.</li>
-<li>👨‍💻 Since I work for a software agency most of the projects I am contributing to are not open source</li>
-<li>📝 I’m looking to collaborate on <b>something that brings people together</b></li>
-<li>💬 Ask me about <strong>mobile app or libgdx game development</strong>.</li>
-<li>📫 How to reach me: <a href="https://twitter.com/mulkatz">twitter@mulkatz</a></li>
-</ul>
-</div>
-
 #
 
 <h2>Languages</h2>
@@ -135,6 +121,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 #
+
+<h2>What's going on?</h3>
+<div>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/Franjoo">my first flutter app</a>.</li>
+<li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a>.</li>
+<li>👨‍💻 Since I work for a software agency most of the projects I am contributing to are not open source</li>
+<li>📝 I’m looking to collaborate on <b>something that brings people together</b></li>
+<li>💬 Ask me about <strong>mobile app or libgdx game development</strong>.</li>
+<li>📫 How to reach me: <a href="https://twitter.com/mulkatz">twitter@mulkatz</a></li>
+</ul>
+</div>
 
 ---
 <!-- 
