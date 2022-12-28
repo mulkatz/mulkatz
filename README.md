@@ -1,13 +1,12 @@
-<img src="header.png" />
+<img src="header.png"  alt="header"/>
 
 ---
 
 <div>
-<img align="left" width=200 src="profile.png" />
-<p align="left">I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. <br>I am working on some side projects, learning a couple new things, and trying to understand<br> the world everday a little bit better.
+<img align="left" alt="profile" width="200" src="profile.png" />
+<p align="left">I'm currently a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. <br>I am working on some side projects, learning a couple new things, and trying to understand<br> the world everday a little bit better.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in </p>
 </div>
 
 ---
