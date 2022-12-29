@@ -1,9 +1,9 @@
-<img src="header.png"  alt="header"/>
+<img src="assets/header.png"  alt="header"/>
 
 ---
 
 <div>
-  <img align="left" alt="profile" width="200" src="profile.png"/>
+  <img align="left" alt="profile" width="200" src="assets/profile.png"/>
   <p align="left">I'm a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️
     Rostock, Germany. Since I spend most of my time working on projects for clients, most of my code contributions are
     unfortunately not open source - however, a few of my hobby projects can be found here.<br><br>
@@ -139,7 +139,7 @@
     <td>Firebase</td>
   </tr>
   <tr>
-    <td><img src="capacitor-icon.svg"
+    <td><img src="assets/capacitor-icon.svg"
              alt="capacitor" width="25" height="25"/></td>
     <td>Capacitor</td>
   </tr>
@@ -175,8 +175,8 @@
 
 <h2>🎓 Certificates</h2>
 <div>
-<img src="psm-i.svg" alt="swift" height="200"/>
-<img src="pspo-i.svg" alt="swift" height="200"/>
+<img src="assets/psm-i.svg" alt="swift" height="200"/>
+<img src="assets/pspo-i.svg" alt="swift" height="200"/>
 </div>
 
 #
