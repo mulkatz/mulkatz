@@ -48,7 +48,7 @@
         alt="typescript" width="25" height="25"/></td>
     <td>Typescript</td>
     <td>2018</td>
-    <td></td>
+    <td>So happy that the time of untyped javascript is over</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
@@ -62,21 +62,21 @@
              alt="bash" width="25" height="25"/></td>
     <td>Bash</td>
     <td>2015</td>
-    <td></td>
+    <td>Still improving</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
              alt="bash" width="25" height="25"/></td>
     <td>Python</td>
     <td>2015</td>
-    <td></td>
+    <td>Not used since graduation</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
              alt="dart" width="25" height="25"/></td>
     <td>HTML</td>
     <td>2014</td>
-    <td></td>
+    <td>I think I am using too many divs</td>
   </tr>
   <tr>
     <td><img
@@ -84,7 +84,7 @@
         alt="css3" width="25" height="25"/></td>
     <td>CSS</td>
     <td>2014</td>
-    <td></td>
+    <td>easy to learn - hard to master. The rabbit hole is really deep</td>
   </tr>
   <tr>
     <td><img
