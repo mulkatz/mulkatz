@@ -101,54 +101,60 @@
   </table>
 
 
-<h2>🔧 Tools & Frameworks</h2>
+<h2>🔧 Tools & Frameworks I frequently use</h2>
 <table>
-    <thead>
-    <tr>
-      <th>▾</th>
-      <th>Tool / Framework</th>
-      <th>In how many projects used</th>
-      <th>Thoughts on it</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-               alt="dart" width="25" height="25"/></td>
-      <td>React</td>
-      <td>9+</td>
-      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
-    </tr>
+  <thead>
+  <tr>
+    <th>▾</th>
+    <th>Tool / Framework</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td><img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"
+        alt="aws" width="25" height="25""
+      alt="dart" width="25" height="25"/>
+    </td>
+    <td>AWS</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>GCP</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>Firebase</td>
+  </tr>
+  <tr>
+    <td><img src="capacitor-icon.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>Capacitor</td>
+  </tr>
  <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-               alt="dart" width="25" height="25"/></td>
-      <td>Vue</td>
-      <td>1-3</td>
-      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
-    </tr>
- <tr>
-      <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25""
-               alt="dart" width="25" height="25"/></td>
-      <td>AWS</td>
-      <td>9+</td>
-      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
-    </tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>Ionic</td>
+  </tr>
 <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
-               alt="dart" width="25" height="25"/></td>
-      <td>GCP</td>
-      <td>9+</td>
-      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
-    </tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>Android</td>
+  </tr>
 <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
-               alt="dart" width="25" height="25"/></td>
-      <td>Firebase</td>
-      <td>9+</td>
-      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
-    </tr>
-    </tbody>
-  </table>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
+             alt="dart" width="25" height="25"/></td>
+    <td>iOS</td>
+  </tr>
+  </tbody>
+</table>
 
 #
 
