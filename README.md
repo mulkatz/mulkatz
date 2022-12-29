@@ -106,6 +106,7 @@
   </tbody>
 </table>
 
+---
 
 <h2>🔧 Tools & Frameworks I frequently use</h2>
 <table>
@@ -171,7 +172,7 @@
   </tbody>
 </table>
 
-#
+---
 
 <h2>🎓 Certificates</h2>
 <div>
@@ -179,7 +180,7 @@
 <img src="assets/pspo-i.svg" alt="swift" height="200"/>
 </div>
 
-#
+---
 
 <h2>🦉 What's going on?</h3>
 <div>
