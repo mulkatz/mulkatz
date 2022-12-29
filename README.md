@@ -3,9 +3,12 @@
 ---
 
 <div>
-<img align="left" alt="profile" width="200" src="profile.png" />
-<p align="left">I'm a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️ Rostock, Germany. Since I spend most of my time working on projects for clients, most of my code contributions are unfortunately not open source - however, a few of my hobby projects can be found here.<br>I am working on some side projects, learning a couple new things, and trying to understand<br> the world everday a little bit better.</p>
-<br><br><br><br>
+  <img align="left" alt="profile" width="200" src="profile.png"/>
+  <p align="left">I'm a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️
+    Rostock, Germany. Since I spend most of my time working on projects for clients, most of my code contributions are
+    unfortunately not open source - however, a few of my hobby projects can be found here.<br><br>
+    I am motivated by my passion for problem-solving and building software solutions. I am always looking for ways to learn and grow and I constantly try to improve my skills to design and implement efficient and effective software
+    <br><br><br><br>
 </div>
 
 <br/>
@@ -170,7 +173,6 @@
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Franjoo">a quiz app in flutter</a></li>
 <li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a></li>
-<li>👨‍💻 Since I work for a software agency most of the projects I am contributing to are not open source</li>
 <li>📝 I’m looking to collaborate on <b>something that brings people together</b></li>
 <li>💬 Ask me about <strong>web / mobile app</strong> or <strong>libgdx game development</strong></li>
 <li>📫 How to reach me: <a href="https://twitter.com/mulkatz">twitter@mulkatz</a></li>
