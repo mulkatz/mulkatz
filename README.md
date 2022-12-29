@@ -21,7 +21,7 @@
   <tr>
     <th>▾</th>
     <th>Language</th>
-    <th>Learning since</th>
+    <th>Learning&nbsp;since</th>
     <th>Thoughts on it</th>
   </tr>
   </thead>
