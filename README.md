@@ -84,7 +84,7 @@
         alt="css3" width="25" height="25"/></td>
     <td>CSS</td>
     <td>2014</td>
-    <td>easy to learn - hard to master. The rabbit hole is really deep</td>
+    <td>easy to learn - hard to master - the rabbit hole is really deep</td>
   </tr>
   <tr>
     <td><img
