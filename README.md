@@ -19,8 +19,7 @@
     <tr>
       <th>▾</th>
       <th>Language</th>
-      <th>Learned</th>
-      <th>Experience</th>
+      <th>Learning since</th>
       <th>Thoughts on it</th>
     </tr>
     </thead>
@@ -30,7 +29,6 @@
                alt="dart" width="25" height="25"/></td>
       <td>Dart</td>
       <td>2022</td>
-      <td>●○○○○</td>
       <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
     </tr>
     <tr>
@@ -38,7 +36,6 @@
                alt="swift" width="25" height="25"/></td>
       <td>Swift</td>
       <td>2019</td>
-      <td>●●◐○○</td>
       <td>Swift is actually a reference to the speed at which you'll need to update your code whenever a new version of the language is released</td>
     </tr>
     <tr>
@@ -47,7 +44,6 @@
           alt="typescript" width="25" height="25"/></td>
       <td>Typescript</td>
       <td>2018</td>
-      <td>●●●●○</td>
       <td></td>
     </tr>
     <tr>
@@ -55,7 +51,6 @@
                alt="kotlin" width="25" height="25"/></td>
       <td>Kotlin</td>
       <td>2017</td>
-      <td>●●●●○</td>
       <td>Still my favourite language because of its clarity and eloquence</td>
     </tr>
     <tr>
@@ -63,7 +58,6 @@
                alt="bash" width="25" height="25"/></td>
       <td>Bash</td>
       <td>2015</td>
-      <td>●●○○○</td>
       <td></td>
     </tr>
     <tr>
@@ -71,7 +65,6 @@
                alt="bash" width="25" height="25"/></td>
       <td>Python</td>
       <td>2015</td>
-      <td>◐○○○○</td>
       <td></td>
     </tr>
     <tr>
@@ -79,7 +72,6 @@
                alt="dart" width="25" height="25"/></td>
       <td>HTML</td>
       <td>2014</td>
-      <td>●●●◐○</td>
       <td></td>
     </tr>
     <tr>
@@ -88,7 +80,6 @@
           alt="css3" width="25" height="25"/></td>
       <td>CSS</td>
       <td>2014</td>
-      <td>●●●●○</td>
       <td></td>
     </tr>
     <tr>
@@ -97,7 +88,6 @@
           alt="javascript" width="25" height="25"/></td>
       <td>Javascript</td>
       <td>2014</td>
-      <td>●●●○○</td>
       <td><code>[] == ![] // -> true</code></td>
     </tr>
     <tr>
@@ -105,7 +95,6 @@
                alt="java" width="25" height="25"/></td>
       <td>Java</td>
       <td>2013</td>
-      <td>●●○○○</td>
       <td>even though it is the first programming language I learned, I don't have too positive feelings for it anymore - too much typing work.</td>
     </tr>
     </tbody>
@@ -119,7 +108,6 @@
       <th>▾</th>
       <th>Tool / Framework</th>
       <th>In how many projects used</th>
-      <th>Experience</th>
       <th>Thoughts on it</th>
     </tr>
     </thead>
@@ -129,7 +117,13 @@
                alt="dart" width="25" height="25"/></td>
       <td>React</td>
       <td>9+</td>
-      <td>●○○○○</td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
+    </tr>
+ <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+               alt="dart" width="25" height="25"/></td>
+      <td>Vue</td>
+      <td>1-3</td>
       <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
     </tr>
     </tbody>
