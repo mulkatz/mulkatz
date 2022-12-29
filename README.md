@@ -114,6 +114,7 @@
   <tr>
     <th>▾</th>
     <th>Tool / Framework</th>
+    <th>▦</th>
     <th>▾</th>
     <th>Tool / Framework</th>
   </tr>
@@ -123,6 +124,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
              alt="react" width="25" height="25"/></td>
     <td align="center">React</td>
+    <th>▦</th>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"
              alt="ionic" width="25" height="25"/></td>
     <td align="center">Ionic</td>
@@ -133,6 +135,7 @@
         alt="aws" width="25" height="25"/>
     </td>
     <td align="center">AWS</td>
+    <th>▦</th>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
              alt="android" width="25" height="25"/></td>
     <td align="center">Android</td>
@@ -141,6 +144,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
              alt="gcp" width="25" height="25"/></td>
     <td align="center">GCP</td>
+    <th>▦</th>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
              alt="ios" width="25" height="25"/></td>
     <td align="center">iOS</td>
@@ -149,6 +153,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
              alt="firebase" width="25" height="25"/></td>
     <td align="center">Firebase</td>
+    <th>▦</th>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg"
              alt="xd" width="25" height="25"/></td>
     <td align="center">XD</td>
@@ -157,6 +162,7 @@
     <td><img src="assets/capacitor-icon.svg"
              alt="capacitor" width="25" height="25"/></td>
     <td align="center">Capacitor</td>
+    <th>▦</th>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
              alt="figma" width="25" height="25"/></td>
     <td align="center">Figma</td>
