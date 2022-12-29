@@ -114,60 +114,52 @@
   <tr>
     <th>▾</th>
     <th>Tool / Framework</th>
+    <th>▾</th>
+    <th>Tool / Framework</th>
   </tr>
   </thead>
   <tbody>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
              alt="react" width="25" height="25"/></td>
-    <td>React</td>
+    <td align="center">React</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"
+             alt="ionic" width="25" height="25"/></td>
+    <td align="center">Ionic</td>
   </tr>
   <tr>
     <td><img
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"
         alt="aws" width="25" height="25"/>
     </td>
-    <td>AWS</td>
+    <td align="center">AWS</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
+             alt="android" width="25" height="25"/></td>
+    <td align="center">Android</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
              alt="gcp" width="25" height="25"/></td>
-    <td>GCP</td>
+    <td align="center">GCP</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
+             alt="ios" width="25" height="25"/></td>
+    <td align="center">iOS</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
              alt="firebase" width="25" height="25"/></td>
-    <td>Firebase</td>
+    <td align="center">Firebase</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg"
+             alt="xd" width="25" height="25"/></td>
+    <td align="center">XD</td>
   </tr>
   <tr>
     <td><img src="assets/capacitor-icon.svg"
              alt="capacitor" width="25" height="25"/></td>
-    <td>Capacitor</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"
-             alt="ionic" width="25" height="25"/></td>
-    <td>Ionic</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
-             alt="android" width="25" height="25"/></td>
-    <td>Android</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
-             alt="ios" width="25" height="25"/></td>
-    <td>iOS</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg"
-             alt="xd" width="25" height="25"/></td>
-    <td>XD</td>
-  </tr>
-  <tr>
+    <td align="center">Capacitor</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
              alt="figma" width="25" height="25"/></td>
-    <td>Figma</td>
+    <td align="center">Figma</td>
   </tr>
   </tbody>
 </table>
