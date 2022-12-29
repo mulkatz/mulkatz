@@ -126,19 +126,29 @@
       <td>1-3</td>
       <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
     </tr>
+ <tr>
+      <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25""
+               alt="dart" width="25" height="25"/></td>
+      <td>AWS</td>
+      <td>9+</td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
+    </tr>
+<tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+               alt="dart" width="25" height="25"/></td>
+      <td>GCP</td>
+      <td>9+</td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
+    </tr>
+<tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+               alt="dart" width="25" height="25"/></td>
+      <td>Firebase</td>
+      <td>9+</td>
+      <td>Beware, for if you miss the mark with Dart, you'll be left with a painful reminder stuck in your side.</td>
+    </tr>
     </tbody>
   </table>
-
-
-
-
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="25" height="25" />
-</p>
 
 #
 
@@ -153,11 +163,11 @@
 <h2>🦉 What's going on?</h3>
 <div>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Franjoo">my first flutter app</a>.</li>
-<li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/Franjoo">a quiz app in flutter</a></li>
+<li>🎓 I’m currently learning to <a href="https://cloud.google.com/certification/cloud-architect">get certified as google cloud architect</a></li>
 <li>👨‍💻 Since I work for a software agency most of the projects I am contributing to are not open source</li>
 <li>📝 I’m looking to collaborate on <b>something that brings people together</b></li>
-<li>💬 Ask me about <strong>mobile app or libgdx game development</strong>.</li>
+<li>💬 Ask me about <strong>web / mobile app</strong> or <strong>libgdx game development</strong></li>
 <li>📫 How to reach me: <a href="https://twitter.com/mulkatz">twitter@mulkatz</a></li>
 </ul>
 </div>
