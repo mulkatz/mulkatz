@@ -62,7 +62,7 @@
              alt="bash" width="25" height="25"/></td>
     <td>Bash</td>
     <td>2015</td>
-    <td>Still improving</td>
+    <td>Always learn something new</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
