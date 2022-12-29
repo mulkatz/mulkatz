@@ -7,8 +7,8 @@
   <p align="left">I'm a software engineer at <strong><a href="https://www.altow.de/">Altow</a></strong> based in ⚓️
     Rostock, Germany. Since I spend most of my time working on projects for clients, most of my code contributions are
     unfortunately not open source - however, a few of my hobby projects can be found here.<br><br>
-    I am motivated by my passion for problem-solving and building software solutions. I am always looking for ways to learn and grow and I constantly try to improve my skills to design and implement efficient and effective software
-    <br><br><br><br>
+    I am motivated by my passion for problem-solving and building software solutions. I am always looking for ways to learn and grow and I constantly try to improve my skills to design and implement efficient and effective software.
+    <br><br>
 </div>
 
 <br/>
