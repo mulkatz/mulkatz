@@ -75,7 +75,7 @@
              alt="dart" width="25" height="25"/></td>
     <td>HTML</td>
     <td>2014</td>
-    <td>I think I am using too many divs</td>
+    <td>Don't use too many divs</td>
   </tr>
   <tr>
     <td><img
@@ -83,7 +83,7 @@
         alt="css3" width="25" height="25"/></td>
     <td>CSS</td>
     <td>2014</td>
-    <td>easy to learn - hard to master - the rabbit hole is really deep</td>
+    <td>easy to learn - hard to master - the rabbit hole is really deep - love it</td>
   </tr>
   <tr>
     <td><img
