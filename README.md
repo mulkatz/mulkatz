@@ -1,1 +1,1 @@
-![Mein Profil-Header](https://raw.githubusercontent.com/Franjoo/Franjoo/assets/animation.svg?v=1)
+![Mein Profil-Header](https://raw.githubusercontent.com/Franjoo/Franjoo/main/assets/animation.svg)
