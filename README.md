@@ -1,4 +1,4 @@
-### Hey, I'm Franz 👋
+### Hi, I'm Franz 🖖
 
 📍 **Berlin** | 🛠️ **Fullstack Developer** | 🧪 **Serial Side-Project Builder**
 
