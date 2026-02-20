@@ -25,11 +25,9 @@ I'm good at making things. Marketing? Let's call it a growth area.
 - ⚒️ **[anvil](https://github.com/mulkatz/anvil)** — Claude Code plugin that stress-tests your ideas through structured Advocate vs. Critic debates
 - 📸 **[cap2cal](https://github.com/mulkatz/cap2cal)** — Snap a photo of any event poster and AI puts it in your calendar
 
-More things are cooking. I'm building in public now — open-sourcing projects,
-sharing what I learn, and writing about what actually happens when you ship stuff
-into the void.
+More things are cooking. Starting to open-source more of what I build and share what I learn along the way.
 
-If that sounds like your kind of mess — follow along.
+If that sounds interesting — follow along.
 
 ## Connect
 
