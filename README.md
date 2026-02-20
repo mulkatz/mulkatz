@@ -20,10 +20,10 @@ I'm good at making things. Marketing? Let's call it a growth area.
 
 ## Projects
 
-- 🧬 **[mycel](https://github.com/mulkatz/mycel)** — Multi-agent AI knowledge engine. Conversations in, structured data out. `TypeScript · Vertex AI · LangGraph · Firestore`
-- 🌐 **[mycel-web](https://github.com/mulkatz/mycel-web)** — Chat UI & Admin Dashboard for Mycel. `React 19 · Tailwind v4 · TanStack · Vite`
-- ⚒️ **[anvil](https://github.com/mulkatz/anvil)** — Claude Code plugin that stress-tests ideas through structured debates. `Shell · Markdown`
-- 📸 **[cap2cal](https://github.com/mulkatz/cap2cal)** — Photo of an event poster → calendar entry via AI extraction. `React · Capacitor · Gemini AI`
+- 🧬 **[mycel](https://github.com/mulkatz/mycel)** — AI engine that turns natural conversations into structured, queryable knowledge bases
+- 🌐 **[mycel-web](https://github.com/mulkatz/mycel-web)** — Chat UI and Admin Dashboard for Mycel
+- ⚒️ **[anvil](https://github.com/mulkatz/anvil)** — Claude Code plugin that stress-tests your ideas through structured Advocate vs. Critic debates
+- 📸 **[cap2cal](https://github.com/mulkatz/cap2cal)** — Snap a photo of any event poster and AI puts it in your calendar
 
 More things are cooking. I'm building in public now — open-sourcing projects,
 sharing what I learn, and writing about what actually happens when you ship stuff
