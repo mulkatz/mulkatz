@@ -8,8 +8,11 @@ but I built anyway.
 
 I'm good at making things. Marketing? Let's call it a growth area.
 
-Here are two recent ones:
+Here are some recent ones:
 
+- [mycel](https://github.com/mulkatz/mycel) — An AI knowledge engine that talks to
+  people and structures what they know. Multi-agent pipeline, RAG, schema evolution —
+  the whole thing. [Frontend](https://github.com/mulkatz/mycel-web) is React + Tailwind.
 - [anvil](https://github.com/mulkatz/anvil) — I got tired of AI agreeing with
   everything I say, so I built a plugin that argues back.
 - [cap2cal](https://github.com/mulkatz/cap2cal) — Snap a photo of an event poster
