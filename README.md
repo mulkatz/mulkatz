@@ -1,24 +1,25 @@
 ### Hey, I'm Franz
 
-I build things. Too many things, probably.
+I've built 20+ side projects. None of them made me rich. I'm still building.
 
-My ~/Workspace has more abandoned repos than a shelter has cats — which is ironic,
-because my username literally means cat. Most of my projects start with
-"what if I just..." and end somewhere between MVP and mass adoption delusion.
+My projects folder looks like the browser tabs of someone who's lost control
+of their life — mobile apps, SaaS tools, AI experiments, things nobody asked for
+but I built anyway.
 
-Sometimes they actually ship, though:
+I'm good at making things. Marketing? Let's call it a growth area.
 
-- [anvil](https://github.com/mulkatz/anvil) — I got tired of AI agreeing
-  with everything I say, so I built a plugin that argues back.
-  Adversarial thinking for Claude Code.
-- [cap2cal](https://github.com/mulkatz/cap2cal) — Snap a photo of an event
-  poster and it ends up in your calendar. Because typing dates manually
-  is a mass psychosis we've accepted for too long.
+Here are two recent ones:
 
-Currently exploring the intersection of AI tooling and developer workflows.
-Previously shipped mobile games, chat platforms, and various things
-that mass-adopted exactly zero users.
+- [anvil](https://github.com/mulkatz/anvil) — I got tired of AI agreeing with
+  everything I say, so I built a plugin that argues back.
+- [cap2cal](https://github.com/mulkatz/cap2cal) — Snap a photo of an event poster
+  and it ends up in your calendar. Because typing dates manually is beneath us.
 
-Stack doesn't matter, but since you're asking:
-TypeScript everywhere, React, Node, Firebase, Flutter when mobile,
+More things are cooking. I'm building in public now — open-sourcing projects,
+sharing what I learn, and writing about what actually happens when you ship stuff
+into the void.
+
+If that sounds like your kind of mess — follow along.
+
+Stack: TypeScript everywhere, React, Node, Firebase, Flutter when mobile,
 and whatever AI API dropped this week.
