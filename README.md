@@ -24,12 +24,13 @@ I'm good at making things. Marketing? Let's call it a growth area.
 - 🌐 **[mycel-web](https://github.com/mulkatz/mycel-web)** — Chat UI and Admin Dashboard for Mycel
 - ⚒️ **[anvil](https://github.com/mulkatz/anvil)** — Claude Code plugin that stress-tests your ideas through structured Advocate vs. Critic debates
 - ✨ **[spark](https://github.com/mulkatz/spark)** — Claude Code plugin that generates surprising ideas through multi-persona brainstorming
-  <br><sub>Install both via [`mulkatz/claude-plugins`](https://github.com/mulkatz/claude-plugins) marketplace</sub>
 - 🧘 **[anchor](https://github.com/mulkatz/anchor)** — Therapeutic mobile app for immediate anxiety relief during panic attacks
 - 📸 **[cap2cal](https://github.com/mulkatz/cap2cal)** — Snap a photo of any event poster and AI puts it in your calendar
 - 🎮 **[flonk](https://github.com/mulkatz/flonk)** — Vertical climbing arcade game built with libGDX and Kotlin, available on Google Play and App Store
 
 More things are cooking. Starting to open-source more of what I build and share what I learn along the way.
+
+Currently deep into Claude Code plugins — I maintain a [marketplace](https://github.com/mulkatz/claude-plugins) for all my plugins.
 
 If that sounds interesting — follow along.
 
