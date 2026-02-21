@@ -30,7 +30,7 @@ I'm good at making things. Marketing? Let's call it a growth area.
 
 More things are cooking. Starting to open-source more of what I build and share what I learn along the way.
 
-Currently deep into Claude Code plugins — I maintain a [marketplace](https://github.com/mulkatz/claude-plugins) for all my plugins.
+Currently tinkering with Claude Code plugins — I maintain a [marketplace](https://github.com/mulkatz/claude-plugins) for all my plugins.
 
 If that sounds interesting — follow along.
 
