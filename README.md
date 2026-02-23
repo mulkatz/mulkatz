@@ -20,14 +20,14 @@ I'm good at making things. Marketing? Let's call it a growth area.
 
 ## Projects
 
+- 🎠 **[linkedin-carousel-kit](https://github.com/mulkatz/linkedin-carousel-kit)** — Markdown to LinkedIn carousel slides with a warm design system and branded components
 - 🧬 **[mycel](https://github.com/mulkatz/mycel)** — AI engine that turns natural conversations into structured, queryable knowledge bases
 - 🌐 **[mycel-web](https://github.com/mulkatz/mycel-web)** — Chat UI and Admin Dashboard for Mycel
 - ⚒️ **[anvil](https://github.com/mulkatz/anvil)** — Claude Code plugin that stress-tests your ideas through structured Advocate vs. Critic debates
 - ✨ **[spark](https://github.com/mulkatz/spark)** — Claude Code plugin that generates surprising ideas through multi-persona brainstorming
-- 🧘 **[anchor](https://github.com/mulkatz/anchor)** — Therapeutic mobile app for immediate anxiety relief during panic attacks
 - 📸 **[cap2cal](https://github.com/mulkatz/cap2cal)** — Snap a photo of any event poster and AI puts it in your calendar
+- 🧘 **[anchor](https://github.com/mulkatz/anchor)** — Therapeutic mobile app for immediate anxiety relief during panic attacks
 - 🎮 **[flonk](https://github.com/mulkatz/flonk)** — Vertical climbing arcade game built with libGDX and Kotlin, available on Google Play and App Store
-- 🎠 **[linkedin-carousel-kit](https://github.com/mulkatz/linkedin-carousel-kit)** — Markdown to LinkedIn carousel slides with a warm design system and branded components
 
 More things are cooking. Starting to open-source more of what I build and share what I learn along the way.
 
