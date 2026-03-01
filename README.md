@@ -20,6 +20,7 @@ I'm good at making things. Marketing? Let's call it a growth area.
 
 ## Projects
 
+- 💸 **[gspend](https://github.com/mulkatz/gspend)** — CLI that shows real GCP spending from BigQuery billing export. `brew install mulkatz/tap/gspend`
 - 🎠 **[linkedin-carousel-kit](https://github.com/mulkatz/linkedin-carousel-kit)** — Markdown to LinkedIn carousel slides with a warm design system and branded components
 - 🧬 **[mycel](https://github.com/mulkatz/mycel)** — AI engine that turns natural conversations into structured, queryable knowledge bases
 - 🌐 **[mycel-web](https://github.com/mulkatz/mycel-web)** — Chat UI and Admin Dashboard for Mycel
