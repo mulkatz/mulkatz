@@ -23,6 +23,9 @@ I'm good at making things. Marketing? Let's call it a growth area.
 - 🔮 **[glow-card](https://github.com/mulkatz/glow-card)** — CSS-only glow border cards as Web Components. 6 variants, framework-agnostic, <2KB
 - 🧲 **[use-magnetic](https://github.com/mulkatz/use-magnetic)** — React hook for magnetic hover interactions. Lerp animation, a11y-first, <1.3KB
 - ⌨️ **[react-hotkey-display](https://github.com/mulkatz/react-hotkey-display)** — Keyboard shortcut display with automatic OS detection. `⌘S` on Mac, `Ctrl+S` on Windows
+- 🇩🇪 **[deutsche-feiertage](https://github.com/mulkatz/deutsche-feiertage)** — German public holidays for all 16 states with Brückentage calculator. TypeScript, zero deps, <1KB
+- 📊 **[tiny-sparkline](https://github.com/mulkatz/tiny-sparkline)** — Tiny SVG sparkline for React. Line, area, bar, dot variants. Tooltips, animations, <2KB
+- 🌀 **[scroll-velocity](https://github.com/mulkatz/scroll-velocity)** — React hook & components for scroll-speed animations. Text skew, velocity marquee, opacity. <1.5KB
 - 💸 **[gspend](https://github.com/mulkatz/gspend)** — CLI that shows real GCP spending from BigQuery billing export
 - 🎠 **[linkedin-carousel-kit](https://github.com/mulkatz/linkedin-carousel-kit)** — Markdown to LinkedIn carousel slides with a warm design system and branded components
 - 🧬 **[mycel](https://github.com/mulkatz/mycel)** — AI engine that turns natural conversations into structured, queryable knowledge bases
