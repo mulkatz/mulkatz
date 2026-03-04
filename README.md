@@ -18,6 +18,12 @@ but I built anyway.
 
 I'm good at making things. Marketing? Let's call it a growth area.
 
+## Open Source Libraries
+
+- 🔮 **[glow-card](https://github.com/mulkatz/glow-card)** — CSS-only glow border cards as Web Components. 6 variants, framework-agnostic, <2KB
+- 🧲 **[use-magnetic](https://github.com/mulkatz/use-magnetic)** — React hook for magnetic hover interactions. Lerp animation, a11y-first, <1.3KB
+- ⌨️ **[react-hotkey-display](https://github.com/mulkatz/react-hotkey-display)** — Keyboard shortcut display with automatic OS detection. `⌘S` on Mac, `Ctrl+S` on Windows
+
 ## Projects
 
 - 💸 **[gspend](https://github.com/mulkatz/gspend)** — CLI that shows real GCP spending from BigQuery billing export
