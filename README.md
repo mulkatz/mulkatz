@@ -23,7 +23,7 @@ I'm good at making things. Marketing? Let's call it a growth area.
 - 🖥️ **[react-termview](https://github.com/mulkatz/react-termview)** — Lightweight terminal UI for React with streaming output, ANSI colors, command history, and AI/LLM mode
 - ✨ **[reveal-text](https://github.com/mulkatz/reveal-text)** — Text animation primitives for React — typewriter, reveal, scramble, split-text. Zero deps, <3KB
 - 🔍 **[favicon-fetch](https://github.com/mulkatz/favicon-fetch)** — Universal favicon fetcher with smart 6-strategy fallback chain. One call, best icon, works everywhere
-- 📄 **[pdf-form-schema](https://github.com/mulkatz/pdf-form-schema)** — Bidirectional PDF form to schema tool. Extract typed schemas (JSON Schema, Zod, TypeScript) from PDF forms
+- 📄 **[pdf-form-schema](https://github.com/mulkatz/pdf-form-schema)** — Bidirectional PDF form to schema tool. Extract typed schemas (JSON Schema, Zod, TypeScript)
 - 🔮 **[glow-card](https://github.com/mulkatz/glow-card)** — CSS-only glow border cards as Web Components. 6 variants, framework-agnostic, <2KB
 - 🧲 **[use-magnetic](https://github.com/mulkatz/use-magnetic)** — React hook for magnetic hover interactions. Lerp animation, a11y-first, <1.3KB
 - ⌨️ **[react-hotkey-display](https://github.com/mulkatz/react-hotkey-display)** — Keyboard shortcut display with automatic OS detection. `⌘S` on Mac, `Ctrl+S` on Windows
