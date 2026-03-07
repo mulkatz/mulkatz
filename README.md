@@ -18,29 +18,24 @@ but I built anyway.
 
 I'm good at making things. Marketing? Let's call it a growth area.
 
-## Open Source Packages
-
-| Package | Description | Links |
-|---------|-------------|-------|
-| **[react-termview](https://github.com/mulkatz/react-termview)** | Lightweight terminal UI for React — streaming output, ANSI colors, command history, AI/LLM mode. Headless hook + styled component. | [![npm](https://img.shields.io/npm/v/react-termview?style=flat-square)](https://www.npmjs.com/package/react-termview) [Demo](https://react-termview.mulkatz.dev) |
-| **[reveal-text](https://github.com/mulkatz/reveal-text)** | Text animation primitives for React — typewriter, reveal, scramble, split-text. Zero deps, accessible, <3KB. | [![npm](https://img.shields.io/npm/v/reveal-text?style=flat-square)](https://www.npmjs.com/package/reveal-text) [Demo](https://reveal-text.mulkatz.dev) |
-| **[favicon-fetch](https://github.com/mulkatz/favicon-fetch)** | Universal favicon fetcher with smart 6-strategy fallback chain. One call, best icon, works everywhere. | [![npm](https://img.shields.io/npm/v/favicon-fetch?style=flat-square)](https://www.npmjs.com/package/favicon-fetch) [Demo](https://favicon-fetch.mulkatz.dev) |
-| **[pdf-form-schema](https://github.com/mulkatz/pdf-form-schema)** | Bidirectional PDF form to schema tool. Extract typed schemas (JSON Schema, Zod, TypeScript) from PDF forms and fill them with data. | [![npm](https://img.shields.io/npm/v/pdf-form-schema?style=flat-square)](https://www.npmjs.com/package/pdf-form-schema) |
-| **[german-holidays](https://github.com/mulkatz/german-holidays)** | German public holidays for all 16 states. CLI included. Zero dependencies. | [![npm](https://img.shields.io/npm/v/german-holidays?style=flat-square)](https://www.npmjs.com/package/german-holidays) [Demo](https://german-holidays.mulkatz.dev) |
-| **[react-scroll-velocity](https://github.com/mulkatz/react-scroll-velocity)** | Scroll-speed-based animations — text skew, velocity marquee, scroll-reactive opacity. <1.5KB gzipped. | [![npm](https://img.shields.io/npm/v/react-scroll-velocity?style=flat-square)](https://www.npmjs.com/package/react-scroll-velocity) [Demo](https://react-scroll-velocity.mulkatz.dev) |
-| **[react-tiny-sparkline](https://github.com/mulkatz/react-tiny-sparkline)** | Tiny SVG sparkline component — line, area, bar, dot variants. Tooltips, animations. <2KB gzipped. | [![npm](https://img.shields.io/npm/v/react-tiny-sparkline?style=flat-square)](https://www.npmjs.com/package/react-tiny-sparkline) [Demo](https://react-tiny-sparkline.mulkatz.dev) |
-| **[react-hotkey-display](https://github.com/mulkatz/react-hotkey-display)** | Keyboard shortcut display with automatic OS detection. Shows Cmd on Mac, Ctrl on Windows/Linux. | [![npm](https://img.shields.io/npm/v/react-hotkey-display?style=flat-square)](https://www.npmjs.com/package/react-hotkey-display) [Demo](https://react-hotkey-display.mulkatz.dev) |
-| **[use-magnetic](https://github.com/mulkatz/use-magnetic)** | React hook for magnetic hover interactions. Lerp animation, a11y-first. <1.3KB gzipped. | [![npm](https://img.shields.io/npm/v/use-magnetic?style=flat-square)](https://www.npmjs.com/package/use-magnetic) [Demo](https://use-magnetic.mulkatz.dev) |
-| **[glow-card](https://github.com/mulkatz/glow-card)** | CSS-only glow border cards as Web Components. 6 variants, framework-agnostic. <2KB gzipped. | [![npm](https://img.shields.io/npm/v/glow-card?style=flat-square)](https://www.npmjs.com/package/glow-card) [Demo](https://glow-card.mulkatz.dev) |
-
 ## Projects
 
+- 🖥️ **[react-termview](https://github.com/mulkatz/react-termview)** — Lightweight terminal UI for React with streaming output, ANSI colors, command history, and AI/LLM mode
+- ✨ **[reveal-text](https://github.com/mulkatz/reveal-text)** — Text animation primitives for React — typewriter, reveal, scramble, split-text. Zero deps, <3KB
+- 🔍 **[favicon-fetch](https://github.com/mulkatz/favicon-fetch)** — Universal favicon fetcher with smart 6-strategy fallback chain. One call, best icon, works everywhere
+- 📄 **[pdf-form-schema](https://github.com/mulkatz/pdf-form-schema)** — Bidirectional PDF form to schema tool. Extract typed schemas (JSON Schema, Zod, TypeScript) from PDF forms
+- 🔮 **[glow-card](https://github.com/mulkatz/glow-card)** — CSS-only glow border cards as Web Components. 6 variants, framework-agnostic, <2KB
+- 🧲 **[use-magnetic](https://github.com/mulkatz/use-magnetic)** — React hook for magnetic hover interactions. Lerp animation, a11y-first, <1.3KB
+- ⌨️ **[react-hotkey-display](https://github.com/mulkatz/react-hotkey-display)** — Keyboard shortcut display with automatic OS detection. `⌘S` on Mac, `Ctrl+S` on Windows
+- 🇩🇪 **[german-holidays](https://github.com/mulkatz/german-holidays)** — German public holidays for all 16 states with Brückentage calculator. TypeScript, zero deps, <1KB
+- 📊 **[react-tiny-sparkline](https://github.com/mulkatz/react-tiny-sparkline)** — Tiny SVG sparkline for React. Line, area, bar, dot variants. Tooltips, animations, <2KB
+- 🌀 **[react-scroll-velocity](https://github.com/mulkatz/react-scroll-velocity)** — React hook & components for scroll-speed animations. Text skew, velocity marquee, opacity
 - 💸 **[gspend](https://github.com/mulkatz/gspend)** — CLI that shows real GCP spending from BigQuery billing export
 - 🎠 **[linkedin-carousel-kit](https://github.com/mulkatz/linkedin-carousel-kit)** — Markdown to LinkedIn carousel slides with a warm design system and branded components
 - 🧬 **[mycel](https://github.com/mulkatz/mycel)** — AI engine that turns natural conversations into structured, queryable knowledge bases
 - 🌐 **[mycel-web](https://github.com/mulkatz/mycel-web)** — Chat UI and Admin Dashboard for Mycel
 - ⚒️ **[anvil](https://github.com/mulkatz/anvil)** — Claude Code plugin that stress-tests your ideas through structured Advocate vs. Critic debates
-- ✨ **[spark](https://github.com/mulkatz/spark)** — Claude Code plugin that generates surprising ideas through multi-persona brainstorming
+- 🧠 **[spark](https://github.com/mulkatz/spark)** — Claude Code plugin that generates surprising ideas through multi-persona brainstorming
 - 📸 **[cap2cal](https://github.com/mulkatz/cap2cal)** — Snap a photo of any event poster and AI puts it in your calendar
 - 🧘 **[anchor](https://github.com/mulkatz/anchor)** — Therapeutic mobile app for immediate anxiety relief during panic attacks
 - 🎮 **[flonk](https://github.com/mulkatz/flonk)** — Vertical climbing arcade game built with libGDX and Kotlin, available on Google Play and App Store
