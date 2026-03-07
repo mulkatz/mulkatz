@@ -20,7 +20,7 @@ I'm good at making things. Marketing? Let's call it a growth area.
 
 ## Projects
 
-- 🖥️ **[react-termview](https://github.com/mulkatz/react-termview)** — Lightweight terminal UI for React with streaming output, ANSI colors, command history, and AI/LLM mode
+- 🖥️ **[react-termview](https://github.com/mulkatz/react-termview)** — Lightweight terminal UI for React with streaming output, ANSI colors, command history, and LLM mode
 - ✨ **[reveal-text](https://github.com/mulkatz/reveal-text)** — Text animation primitives for React — typewriter, reveal, scramble, split-text. Zero deps, <3KB
 - 🔍 **[favicon-fetch](https://github.com/mulkatz/favicon-fetch)** — Universal favicon fetcher with smart 6-strategy fallback chain. One call, best icon, works everywhere
 - 📄 **[pdf-form-schema](https://github.com/mulkatz/pdf-form-schema)** — Bidirectional PDF form to schema tool. Extract typed schemas (JSON Schema, Zod, TypeScript)
