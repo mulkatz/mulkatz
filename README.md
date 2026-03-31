@@ -1,6 +1,6 @@
 ### Hi, I'm Franz 🖖
 
-📍 **Berlin** | 🛠️ **Fullstack Developer** | 🧪 **Serial Side-Project Builder**
+**Berlin** | **Fullstack Developer** | **Serial Side-Project Builder**
 
 I've built 20+ side projects. None of them made me rich. I'm still building.
 
