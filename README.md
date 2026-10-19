@@ -12,6 +12,7 @@ I'm good at making things. Marketing? Let's call it a growth area.
 
 ## Projects
 
+- 🎙️ **[annotation-cast](https://github.com/mulkatz/annotation-cast)** — Chrome extension turning narrated tests into illustrated reports for agents
 - 🛸 **[mulder](https://github.com/mulkatz/mulder)** — Config-driven Document Intelligence Platform. PDFs → Knowledge Graph, defined by one YAML, all on GCP.
 - 🖥️ **[react-termview](https://github.com/mulkatz/react-termview)** — Lightweight terminal UI for React with streaming output, ANSI colors, command history, and LLM mode
 - ✨ **[reveal-text](https://github.com/mulkatz/reveal-text)** — Text animation primitives for React — typewriter, reveal, scramble, split-text. Zero deps, <3KB
